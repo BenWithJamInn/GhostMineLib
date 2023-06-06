@@ -1,0 +1,5 @@
+name: TrickBlocks
+main: me.benwithjamin.Main
+version: 1.0.0
+depend:
+  - ProtocolLib
